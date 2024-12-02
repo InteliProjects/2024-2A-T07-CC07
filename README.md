@@ -34,3 +34,7 @@ Inventário distribuído que apoie o gerenciamento do estoque de múltiplos CDs,
 - Grupo 5 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T07-CC07-G05
   - https://github.com/Inteli-College/2024-2A-T07-CC07-G05
+ 
+- Grupo 6
+  - Link do repositório: https://github.com/InteliProjects/2024-2A-T07-CC07-G06
+  - https://github.com/Inteli-College/2024-2A-T07-CC07-G06
